@@ -1,0 +1,16 @@
+Item,Value
+Initial RNA-seq samples,1719.0
+Initial RNA-seq genes,19215.0
+Initial PRISM samples,727.0
+Common cell lines,721.0
+Final samples,714.0
+Genes after variance filtering,17254.0
+Selected ML genes,500.0
+Training samples,571.0
+Test samples,143.0
+XGBoost test MAE,0.11447861981927562
+XGBoost test RMSE,0.14258165101550624
+XGBoost test R2,0.20515890041751172
+CV mean MAE,0.12495917893467601
+CV mean RMSE,0.15461157046033228
+CV mean R2,0.27938212597727696
