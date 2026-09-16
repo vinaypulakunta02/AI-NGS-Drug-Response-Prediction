@@ -278,10 +278,10 @@ AI-NGS-Drug-Response-Prediction/
 │   └── project_summary.csv
 │
 ├── figures/
-│   ├── actual_vs_predicted_random_forest.png
-│   ├── actual_vs_predicted_xgboost.png
-│   ├── final_random_forest_feature_importance_top20.png
-│   └── shap_summary_top20.png
+   ├── actual_vs_predicted_random_forest.png
+   ├── actual_vs_predicted_xgboost.png
+   ├── final_random_forest_feature_importance_top20.png
+   └── shap_summary_top20.png
 ```
 
 ---
