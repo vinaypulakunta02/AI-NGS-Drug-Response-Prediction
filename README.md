@@ -128,7 +128,7 @@ XGBoost was used as a second tree-based regression model for comparison.
 
 ---
 
-## Model Performance
+## Final Results
 
 ### Locked Test Set
 
