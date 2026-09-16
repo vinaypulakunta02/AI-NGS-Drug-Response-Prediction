@@ -262,9 +262,6 @@ AI-NGS-Drug-Response-Prediction/
 ├── code/
 │   └── drug_response_prediction.py
 │
-├── notebooks/
-│   └── final_analysis.ipynb
-│
 ├── results/
 │   ├── model_comparison.csv
 │   ├── random_forest_test_predictions.csv
@@ -285,9 +282,6 @@ AI-NGS-Drug-Response-Prediction/
 │   ├── actual_vs_predicted_xgboost.png
 │   ├── final_random_forest_feature_importance_top20.png
 │   └── shap_summary_top20.png
-│
-└── docs/
-    └── final_results_summary.md
 ```
 
 ---
